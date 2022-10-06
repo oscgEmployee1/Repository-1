@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+
+    <menuitem id="root_menu_test_order" name="测试"/>
+
+    <menuitem id="menu_test_order" name="测试" parent="root_menu_test_order" action="action_test_order" />
+
+
+
+</odoo>
