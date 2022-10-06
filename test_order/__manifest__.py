@@ -5,6 +5,7 @@
     'depends': [
         'mail','hr','sale','purchase','stock'
     ],
+    "version": "14.0",
     'data': [
         'security/ir.model.access.csv',
         'views/action.xml',
